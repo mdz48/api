@@ -5,3 +5,4 @@ export interface DiaryEntry {
     msj: string,
     mood: Mood
 }
+
