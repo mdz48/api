@@ -5,3 +5,4 @@ const diaries: Array<DiaryEntry> = diaryData as Array<DiaryEntry> //Forzar a dar
 
 export const getEntries = () => diaries
 
+
